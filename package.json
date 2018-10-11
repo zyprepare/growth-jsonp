@@ -1,7 +1,7 @@
 {
-  "name": "jsonp-promise",
-  "version": "1.0.0",
-  "description": "promise jsonp",
+  "name": "growth-jsonp",
+  "version": "1.0.1",
+  "description": "jsonp promise",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

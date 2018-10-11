@@ -1,0 +1,22 @@
+{
+  "name": "jsonp-promise",
+  "version": "1.0.0",
+  "description": "promise jsonp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyprepare/growth-jsonp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyprepare/growth-jsonp/issues"
+  },
+  "homepage": "https://github.com/zyprepare/growth-jsonp#readme",
+  "dependencies": {
+    "jsonp": "^0.2.1"
+  }
+}
